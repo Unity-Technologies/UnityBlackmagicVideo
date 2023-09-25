@@ -1,0 +1,5 @@
+{
+	"displayName":"URP Simple Compositing",
+	"description": "URP simple compositing with an input video signal and the scene, by using a Renderer Feature",
+	"createSeparatePackage": false
+}

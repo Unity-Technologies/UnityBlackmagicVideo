@@ -1,0 +1,5 @@
+{
+	"displayName":"Advanced Output Canvas Configuration",
+	"description": "Output Unity scene with a Canvas on top",
+	"createSeparatePackage": false
+}

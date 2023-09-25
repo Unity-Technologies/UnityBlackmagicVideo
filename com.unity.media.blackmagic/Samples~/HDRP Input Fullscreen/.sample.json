@@ -1,0 +1,5 @@
+{
+	"displayName":"HDRP Input Fullscreen",
+	"description": "HDRP way to blit an input video signal to the GameView by using a Blackmagic input device",
+	"createSeparatePackage": false
+}

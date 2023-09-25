@@ -1,0 +1,5 @@
+{
+	"displayName":"Legacy Simple Compositing",
+	"description": "Legacy simple compositing with an input video signal and the scene, by using a Monobehaviour and the OnRenderImage override",
+	"createSeparatePackage": false
+}

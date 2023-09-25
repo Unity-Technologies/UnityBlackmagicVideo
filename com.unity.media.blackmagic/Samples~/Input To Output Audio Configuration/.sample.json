@@ -1,0 +1,5 @@
+{
+	"displayName":"Input To Output Audio Configuration",
+	"description": "Retrieve and play the audio data from an input device through an AudioClip",
+	"createSeparatePackage": false
+}
