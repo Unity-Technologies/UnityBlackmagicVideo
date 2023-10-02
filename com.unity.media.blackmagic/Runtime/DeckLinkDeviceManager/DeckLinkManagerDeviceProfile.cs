@@ -67,6 +67,11 @@ namespace Unity.Media.Blackmagic
         [SerializeField]
         internal List<DeckLinkConnectorMapping> m_DevicesConnectorMapping = new List<DeckLinkConnectorMapping>();
 
+#if UNITY_EDITOR
+        [SerializeField]
+        bool m_PropertiesFoldout = true;
+#endif
+
         internal int deckLinkCardIndex => m_DeckLinkCardIndex;
 
         internal DeckLinkConnectorMapping connectorMapping => m_DevicesConnectorMapping[m_DeckLinkCardIndex];
