@@ -18,6 +18,7 @@ upm-ci.log
 /SampleProjects/**/Temp
 /SampleProjects/**/UserSettings
 /SampleProjects/**/Logs
+/SampleProjects/**/obj
 
 # The rest are general best practices for Unity projects
 /.Editor/
