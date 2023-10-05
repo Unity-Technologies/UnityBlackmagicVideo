@@ -5,20 +5,20 @@ The Blackmagic Video package helps you leverage video capture cards from Blackma
 <a name="Contents"></a>
 ## Contents
 ### Packages
-- **[Blackmagic Video](Packages/com.unity.media.blackmagic/README.md)**
+- **[Blackmagic Video](com.unity.media.blackmagic/README.md)**
 
 ### Sample projects
 The following projects are used for manual testing:
-- [**BlackmagicVideoIO_HDRP_Compositing**](SampleProjects/BlackmagicVideoIO_HDRP_Compositing/README.md)
-- [**BlackmagicVideoIO_Legacy**](SampleProjects/BlackmagicVideoIO_Legacy/README.md)
-- [**BlackmagicVideoIO_URP**](SampleProjects/BlackmagicVideoIO_URP/README.md)
+- [**BlackmagicVideo_HDRP_Compositing**](SampleProjects/Blackmagic_HDRP_Compositing/README.md)
+- [**BlackmagicVideo_Legacy**](SampleProjects/Blackmagic_Legacy/README.md)
+- [**BlackmagicVideo_URP**](SampleProjects/Blackmagic_URP/README.md)
 - [**Blackmagic_Synchronization**](SampleProjects/Blackmagic_Synchronization/README.md)
 
 ### Test projects
 
 | Project                  | Description |
 | ------------------------ | ----------- |
-| HDRPBlackmagicTests      | Used to run the Blackmagic package tests. |
+| TestProject              | Used to run the Blackmagic package tests. |
 
 <a name="Installation"></a>
 ## Installation and use
