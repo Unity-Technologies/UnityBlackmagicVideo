@@ -9,9 +9,9 @@ The Blackmagic Video package helps you leverage video capture cards from Blackma
 
 ### Sample projects
 The following projects are used for manual testing:
-- [**BlackmagicVideo_HDRP_Compositing**](SampleProjects/Blackmagic_HDRP_Compositing/README.md)
-- [**BlackmagicVideo_Legacy**](SampleProjects/Blackmagic_Legacy/README.md)
-- [**BlackmagicVideo_URP**](SampleProjects/Blackmagic_URP/README.md)
+- [**Blackmagic_HDRP_Compositing**](SampleProjects/Blackmagic_HDRP_Compositing/README.md)
+- [**Blackmagic_Legacy**](SampleProjects/Blackmagic_Legacy/README.md)
+- [**Blackmagic_URP**](SampleProjects/Blackmagic_URP/README.md)
 - [**Blackmagic_Synchronization**](SampleProjects/Blackmagic_Synchronization/README.md)
 
 ### Test projects
