@@ -5,6 +5,7 @@ The Blackmagic Video package helps you leverage video capture cards from Blackma
 <a name="Contents"></a>
 ## Contents
 ### Packages
+
 - **[Blackmagic Video](com.unity.media.blackmagic/README.md)**
 
 ### Sample projects
@@ -19,6 +20,7 @@ The following projects are used for manual testing:
 | Project                  | Description |
 | ------------------------ | ----------- |
 | TestProject              | Used to run the Blackmagic package tests. |
+
 
 <a name="Installation"></a>
 ## Installation and use
