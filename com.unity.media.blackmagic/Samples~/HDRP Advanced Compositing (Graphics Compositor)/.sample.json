@@ -1,0 +1,5 @@
+{
+	"displayName":"HDRP Advanced Compositing (Graphics Compositor)",
+	"description": "HDRP advanced compositing with an input video signal and the scene, by using the Graphics Compositior tool",
+	"createSeparatePackage": false
+}

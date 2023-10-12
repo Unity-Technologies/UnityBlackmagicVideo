@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="Blackmagic.cpp" />
+    <ClCompile Include="platform\win\platform.cpp" />
+    <ClCompile Include="Sources\DeckLinkDeviceEnumerator.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\DeckLinkDeviceDiscovery.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\DeckLinkDeviceProfile.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\DeckLinkOutputDevice.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\OutputDeviceAudioChunk.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\DeckLinkInputDevice.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\DeckLinkHardwareDiscovery.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\DeckLinkOutputDeviceAudio.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="external\blackmagic\win\include\DeckLinkAPI.c">
+      <Filter>Includes</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\PluginUtils.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\DeckLinkProfileCallback.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\ThreadedMemcpy.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\DeckLinkOutputLinkMode.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\DeckLinkOutputKeyingMode.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\BlackmagicPluginEvents.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\DeckLinkOutputGPUDirect.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\VideoFrameTransfer.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\PinnedMemoryAllocator.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Common.h" />
+    <ClInclude Include="ObjectIDMap.h" />
+    <ClInclude Include="external\Unity\IUnityGraphics.h" />
+    <ClInclude Include="external\Unity\IUnityInterface.h" />
+    <ClInclude Include="external\Unity\IUnityRenderingExtensions.h" />
+    <ClInclude Include="Includes\DeckLinkDeviceEnumerator.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\DeckLinkDeviceDiscovery.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\DeckLinkDeviceProfile.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\DeckLinkOutputDevice.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\OutputDeviceAudioChunk.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\DeckLinkInputDevice.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\DeckLinkHardwareDiscovery.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\DeckLinkDeviceUtilities.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\com_ptr.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="external\blackmagic\win\include\DeckLinkAPI.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\PluginUtils.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\DeckLinkProfileCallback.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\ThreadedMemcpy.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\DeckLinkOutputLinkMode.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\DeckLinkOutputKeyingMode.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\BlackmagicPluginEvents.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\VideoFrameTransfer.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\PinnedMemoryAllocator.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\DeckLinkOutputGPUDirect.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\LicenseSecurity.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Midl Include="external\blackmagic\win\include\DeckLinkAPI.idl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Includes">
+      <UniqueIdentifier>{9122caa2-3779-4f3f-9f10-6f97d888c392}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{df903f08-9856-4804-a982-e8631a020ca7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

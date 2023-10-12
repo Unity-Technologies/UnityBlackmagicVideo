@@ -1,0 +1,43 @@
+{
+    "name": "Unity.Media.Blackmagic",
+    "rootNamespace": "",
+    "references": [
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.RenderPipelines.HighDefinition.Runtime",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "Unity.LiveCapture",
+        "Unity.Burst"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Unity.Media.PackageRequirementsAssistant.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.render-pipelines.high-definition",
+            "expression": "10.2.1",
+            "define": "HDRP_10_2_OR_NEWER"
+        },
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "10.2.0",
+            "define": "URP_10_2_OR_NEWER"
+        },
+        {
+            "name": "com.unity.render-pipelines.high-definition",
+            "expression": "12.0.0",
+            "define": "HDRP_12_0_0_OR_NEWER"
+        },
+        {
+            "name": "com.unity.live-capture",
+            "expression": "4.0.0-pre.1",
+            "define": "LIVE_CAPTURE_4_0_0_OR_NEWER"
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,5 @@
+{
+	"displayName":"Simple Input Output Plane Configuration",
+	"description": "Simple way to Blit an incoming video feed (input device) to a Plane in the scene, and output the result (output Device)",
+	"createSeparatePackage": false
+}

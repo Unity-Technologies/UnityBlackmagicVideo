@@ -1,0 +1,5 @@
+{
+	"displayName":"URP Input Fullscreen",
+	"description": "URP way to blit an input video signal to the GameView by using a Blackmagic input device",
+	"createSeparatePackage": false
+}

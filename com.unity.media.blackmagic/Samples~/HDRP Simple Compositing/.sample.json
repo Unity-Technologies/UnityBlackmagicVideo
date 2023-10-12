@@ -1,0 +1,5 @@
+{
+	"displayName":"HDRP Simple Compositing",
+	"description": "HDRP simple compositing with an input video signal and the scene, by using a Custom Pass",
+	"createSeparatePackage": false
+}

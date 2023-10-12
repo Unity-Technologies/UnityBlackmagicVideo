@@ -1,0 +1,5 @@
+{
+	"displayName":"Input Audio Configuration Synchronized",
+	"description": "Retrieve and play the audio data from an input device through an AudioClip, using the Timecode Synchronizer",
+	"createSeparatePackage": false
+}

@@ -1,0 +1,5 @@
+{
+	"displayName":"Simple Output Audio Configuration",
+	"description": "Output Unity's scene audio by using a Blackmagic output device",
+	"createSeparatePackage": false
+}

@@ -1,0 +1,5 @@
+{
+	"displayName":"Simple Output Configuration",
+	"description": "Basic configuration of an output device in the Blackmagic Window, to show how to output a Camera RenderTexture",
+	"createSeparatePackage": false
+}

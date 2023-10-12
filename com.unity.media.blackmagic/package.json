@@ -1,0 +1,88 @@
+{
+  "description": "Blackmagic DeckLink plugin for Unity. Supports Input and Output devices through a new Blackmagic Window.",
+  "displayName": "Blackmagic Video",
+  "name": "com.unity.media.blackmagic",
+  "unity": "2022.2",
+  "version": "2.0.1",
+  "dependencies": {
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.burst": "1.3.9"
+  },
+  "samples": [
+    {
+      "displayName": "Simple Input Output Plane Configuration",
+      "description": "Simple way to Blit an incoming video feed (input device) to a Plane in the scene, and output the result (output Device)",
+      "path": "Samples~/Simple Input Output Plane Configuration"
+    },
+    {
+      "displayName": "Simple External Keying Configuration",
+      "description": "Basic configuration of an output device in the Blackmagic Window, to show how to use the External Keying feature",
+      "path": "Samples~/Simple External Keying Configuration"
+    },
+    {
+      "displayName": "Simple Output Configuration",
+      "description": "Basic configuration of an output device in the Blackmagic Window, to show how to output a Camera RenderTexture",
+      "path": "Samples~/Simple Output Configuration"
+    },
+    {
+      "displayName": "Simple Output Audio Configuration",
+      "description": "Output Unity's scene audio by using a Blackmagic output device",
+      "path": "Samples~/Simple Output Audio Configuration"
+    },
+    {
+      "displayName": "Simple Output Color Bars",
+      "description": "Simple way to output Color Bars",
+      "path": "Samples~/Simple Output Color Bars"
+    },
+    {
+      "displayName": "Input To Output Audio Configuration",
+      "description": "Retrieve and play the audio data from an input device through an AudioClip",
+      "path": "Samples~/Input To Output Audio Configuration"
+    },
+    {
+      "displayName": "Advanced Output Canvas Configuration",
+      "description": "Output Unity scene with a Canvas on top",
+      "path": "Samples~/Advanced Output Canvas Configuration"
+    },
+    {
+      "displayName": "Legacy Input Fullscreen",
+      "description": "Legacy way to blit an input video signal to the GameView by using a Blackmagic input device",
+      "path": "Samples~/Legacy Input Fullscreen"
+    },
+    {
+      "displayName": "Legacy Simple Compositing",
+      "description": "Legacy simple compositing with an input video signal and the scene, by using a Monobehaviour and the OnRenderImage override",
+      "path": "Samples~/Legacy Simple Compositing"
+    },
+    {
+      "displayName": "URP Input Fullscreen",
+      "description": "URP way to blit an input video signal to the GameView by using a Blackmagic input device",
+      "path": "Samples~/URP Input Fullscreen"
+    },
+    {
+      "displayName": "URP Simple Compositing",
+      "description": "URP simple compositing with an input video signal and the scene, by using a Renderer Feature",
+      "path": "Samples~/URP Simple Compositing"
+    },
+    {
+      "displayName": "HDRP Input Fullscreen",
+      "description": "HDRP way to blit an input video signal to the GameView by using a Blackmagic input device",
+      "path": "Samples~/HDRP Input Fullscreen"
+    },
+    {
+      "displayName": "HDRP Advanced Compositing (Graphics Compositor)",
+      "description": "HDRP advanced compositing with an input video signal and the scene, by using the Graphics Compositor tool",
+      "path": "Samples~/HDRP Advanced Compositing (Graphics Compositor)"
+    },
+    {
+      "displayName": "HDRP Simple Compositing",
+      "description": "HDRP simple compositing with an input video signal and the scene, by using a Custom Pass",
+      "path": "Samples~/HDRP Simple Compositing"
+    },
+    {
+      "displayName": "Input Audio Configuration Synchronized",
+      "description": "Retrieve and play the audio data from an input device through an AudioClip, using the Timecode Synchronizer",
+      "path": "Samples~/Input Audio Configuration Synchronized"
+    }
+  ]
+}

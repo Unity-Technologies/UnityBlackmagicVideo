@@ -1,0 +1,5 @@
+{
+	"displayName":"Simple External Keying Configuration",
+	"description": "Basic configuration of an output device in the Blackmagic Window, to show how to use the External Keying feature",
+	"createSeparatePackage": false
+}
