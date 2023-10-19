@@ -1,6 +1,6 @@
-# Blackmagic Video I/O Legacy Sample
+# Blackmagic and Legacy Render Pipeline Sample Project
 
-Legacy Pipeline versions of the Blackmagic package samples.
+Use this Unity project to test Blackmagic package with the Unity Editor's Legacy Render Pipeline.
 
 ## Sample Scenes
 The following sample scenes are available:
@@ -12,10 +12,10 @@ A simple Legacy compositing example. The compositing is done by a Monobehaviour 
 A simple Legacy compositing example. The compositing is done by a Monobehaviour and OnRenderImage override, using the video input signal and a canvas in the scene.
 
 ### BlackmagicExternalFillAndKey
-A simple Legacy extrenal fill and key example using the video input signal.
+A simple Legacy external fill and key example using the video input signal.
 
 ### BlackmagicInputVideo
-Legacy way to blit an input video signal to the GameView by using a Blackmagic input device.
+Blit an input video signal to the GameView by using a Blackmagic input device.
 
 ### BlackmagicOutputVideo
-Legacy way to blit an input video signal to the GameView by using a Blackmagic input device.
+Output video from Unity to a Blackmagic capture device.
