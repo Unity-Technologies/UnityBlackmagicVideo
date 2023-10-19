@@ -5,7 +5,6 @@ The Blackmagic Video package helps you leverage video capture cards from Blackma
 <a name="Contents"></a>
 ## Contents
 ### Packages
-
 - **[Blackmagic Video](com.unity.media.blackmagic/README.md)**
 
 ### Sample projects
