@@ -4,6 +4,8 @@ You can find the HDRP Compositor tool in the menu ‘*Window/Render Pipeline’*
 
 In order to achieve that, you must change your Color Buffer Format to **R16G16B16A16** in the **Rendering** and **Post-Processing** section of the **HDRenderPipelineAsset** (‘*Settings’* folder).
 
+**Note**: This sample depends on the **com.unity.media.keyer** package, which has been included as an archive for convenience (/Packages/com.unity.media.keyer-1.0.0.tgz). To access the source code for that package, please go to [https://github.com/Unity-Technologies/UnityKeyer](https://github.com/Unity-Technologies/UnityKeyer).
+
 3 cameras are used to do the Compositing:
 
 - The **Scene Camera**, renders all the objects in the scene (in this example, a simple cube).

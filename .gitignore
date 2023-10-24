@@ -14,6 +14,11 @@ upm-ci.log
 
 # User's project-specific settings implemented using Settings Manager
 /ProjectSettings/Packages
+/**/**/Library
+/**/**/Temp
+/**/**/UserSettings
+/**/**/Logs
+/**/**/obj
 
 # The rest are general best practices for Unity projects
 /.Editor/
