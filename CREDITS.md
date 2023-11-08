@@ -1,10 +1,10 @@
 # Credits
 
-This page acknowledges those who have Contributed to this work in the past.
+This page acknowledges those who have contributed to this work in the past.
 
 ## Past contributors
 
-Thank you to all the people who have contributed to Unity's BlackMagic Video package!
+Thank you to all the people who have contributed to Unity's Blackmagic Video package!
 
 Top contributors:  
 [Yohann Vaast](https://github.com/YohannVaastUnity), [Jonathan Sawyer](https://github.com/sawyj)

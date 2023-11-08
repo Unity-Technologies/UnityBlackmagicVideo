@@ -1,6 +1,6 @@
 # Blackmagic Video support with the Unity Editor
 
-Use the Unity Blackmagic package (`com.unity.media.blackmagic`) to use video capture cards from Blackmagic Design to input and output pro-grade video and audio in the Unity Editor and runtime builds.
+Use the Unity Blackmagic package (`com.unity.media.blackmagic`) to support video capture cards from Blackmagic Design to input and output pro-grade video and audio in the Unity Editor and runtime builds.
 
 This repository contains the code package, the test package and test projects related with Unity Blackmagic Video.
 
@@ -17,7 +17,7 @@ For user convenience, an HTML build is also available [in a zip file](com.unity.
 
 ### Check out the licensing model
 
-The Blackmagic Video package is licensed under the [under the Apache License, Version 2.0](LICENSE.md).
+The Blackmagic Video package is licensed under the [Apache License, Version 2.0](LICENSE.md).
 
 ### Contribution and maintenance
 
@@ -30,28 +30,27 @@ In that case, we recommend that you fork the repository. This will allow you to 
 
 ## Blackmagic package
 
-### Access the Blackmagic package folder
+### Access the Blackmagic Video package folder
 
-| Package | Description                                                                                        |
-| :--- |:---------------------------------------------------------------------------------------------------|
-| **[Blackmagic Video](com.unity.media.blackmagic)**| The package that allows you to use video capture cards from Blackmagic Design in the Unity Editor. |
+| Package | Description |
+| :--- | :--- |
+| **[Blackmagic Video](com.unity.media.blackmagic)** | The package that allows you to use video capture cards from Blackmagic Design with the Unity Editor.<br /><br />**Note:** This package uses a compiled assembly (plugin) that provides access to Blackmagic's API. All instructions and files required to build the plugin are included in the package directory. |
 
-### Test the Blackmagic package
+### Test the Blackmagic Video package
 
 Use this Unity project to run various tests against the Blackmagic package.
 
-| Project                        | Description                               |
-|--------------------------------|-------------------------------------------|
+| Package | Description |
+| :--- | :--- |
 | [**TestProject**](TestProject) | Used to run the Blackmagic package tests. |
 
-| Project                                                                       | Description                                                    |
-|:------------------------------------------------------------------------------|:---------------------------------------------------------------|
-| [**Blackmagic_HDRP_Compositing**](SampleProjects/Blackmagic_HDRP_Compositing) | Blackmagic Video I/O with HDRP Compositor Sample.              |
-| [**Blackmagic_Legacy**](SampleProjects/Blackmagic_Legacy)                     | Blackmagic and Legacy Render Pipeline Sample Project.          |
-| [**Blackmagic_URP**](SampleProjects/Blackmagic_URP)                           | Blackmagic and Universal Render Pipeline (URP) Sample Project. |
-| [**Blackmagic_Synchronization**](SampleProjects/Blackmagic_Synchronization)   | Blackmagic Synchronization Sample Project.                     |
+### Try the Blackmagic Video package features
 
-## Building the plugin
+A few sample projects are available to try the features according to specific use cases.
 
-The package uses a compiled assembly that provides access to Blackmagic's API. The files needed to build the plugin are in the **Plugin~** directory. See Unity’s documentation on [creating managed plugins](https://docs.unity3d.com/Manual/UsingDLL.html).
-You must download the [Blackmagic Desktop Video software](https://www.blackmagicdesign.com/developer/product/capture-and-playback), the latest version tested is **12.1**.
+| Project | Description |
+| :--- | :--- |
+| [**Blackmagic_HDRP_Compositing**](SampleProjects/Blackmagic_HDRP_Compositing) | Blackmagic Video I/O with HDRP Compositor Sample. |
+| [**Blackmagic_Legacy**](SampleProjects/Blackmagic_Legacy) | Blackmagic and Legacy Render Pipeline Sample Project. |
+| [**Blackmagic_URP**](SampleProjects/Blackmagic_URP) | Blackmagic and Universal Render Pipeline (URP) Sample Project. |
+| [**Blackmagic_Synchronization**](SampleProjects/Blackmagic_Synchronization) | Blackmagic Synchronization Sample Project. |
