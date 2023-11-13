@@ -1,3 +1,5 @@
+[Contents](TableOfContents.md) | [Home](index.md) > Features
+
 # Features
 
 The **Blackmagic Video** package supports the following features:
@@ -13,7 +15,7 @@ The **Blackmagic Video** package supports the following features:
 - Works in the Editor, Play mode, and in Standalone builds.
 - Internal and external fill-and-key.
 - Pass-through and Low latency mode.
-- Single/Dual/Quad Link for output devices. 
+- Single/Dual/Quad Link for output devices.
 - Timecode integration for input and output devices.
 - Public API in C#.
 

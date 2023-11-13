@@ -1,3 +1,5 @@
+[Contents](TableOfContents.md) | [Home](index.md) > Installation
+
 # Installation
 
 To install this package, follow the instructions in the [Package Manager documentation](https://docs.unity3d.com/Manual/upm-ui-install.html).
@@ -30,9 +32,9 @@ To install this package, follow the instructions in the [Package Manager documen
 # Known limitations
 
  You can use the [Graphics Compositor](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@10.2/manual/Compositor-User-Guide.html) tool to do compositing between the Blackmagic Input Video and the Unity scene. This tool is:
- 
+
 * Not mandatory.
-* Only available on **Unity 2020.1** or later and **HDRP 9+**. 
+* Only available on **Unity 2020.1** or later and **HDRP 9+**.
 * Recommended to be used with **HDRP 11+**.
 
 Using a multi-card setup requires you to rename your Logical Devices in the `Label` field using the [Blackmagic Desktop Video](https://www.blackmagicdesign.com/developer/product/capture-and-playback) Setup. The Device `Label` field is used to select a different Connector mapping per card.

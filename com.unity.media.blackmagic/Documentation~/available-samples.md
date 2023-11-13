@@ -1,6 +1,8 @@
+[Contents](TableOfContents.md) | [Home](index.md) > [Samples](samples.md) > Available samples
+
 # Available samples
 
-The following four types of samples are currently available for Blackmagic Video. 
+The following four types of samples are currently available for Blackmagic Video.
 
 ## Simple and advanced samples
 

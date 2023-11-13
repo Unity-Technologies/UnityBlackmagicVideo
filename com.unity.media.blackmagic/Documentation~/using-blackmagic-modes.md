@@ -1,3 +1,5 @@
+[Contents](TableOfContents.md) | [Home](index.md) > [Getting started](getting-started.md) > Using Blackmagic Video in different modes
+
 # Using Blackmagic Video in different modes
 
 Blackmagic Video can be used in both **Editor** mode and **Play** mode:  

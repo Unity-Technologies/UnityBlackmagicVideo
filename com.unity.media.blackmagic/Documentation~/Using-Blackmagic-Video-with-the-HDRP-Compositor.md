@@ -1,3 +1,5 @@
+[Contents](TableOfContents.md) | [Home](index.md) > [Getting started](getting-started.md) > Using Blackmagic Video with the HDRP Compositor
+
 # Using Blackmagic Video with the HDRP Compositor
 
 ## Setting up the scene
@@ -16,7 +18,7 @@ The following setup is an example of how you can use the Graphics Compositor to 
 
 4. Create a new layer (name it for example, "Video Compositing") and assign all game objects that will be rendered in front of the video.
 
-The **Layer** `VideoCompositing` is set on multiple objects/volumes in order to achieve a correct Compositing in the [Graphics Compositor](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@10.2/manual/Compositor-User-Guide.html) tool. It helps to specify what the actual camera instance should render or not. 
+The **Layer** `VideoCompositing` is set on multiple objects/volumes in order to achieve a correct Compositing in the [Graphics Compositor](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@10.2/manual/Compositor-User-Guide.html) tool. It helps to specify what the actual camera instance should render or not.
 
 You can find an example with the Custom Post Process **GrayScale** (on the `SceneVisual/GrayScale Volume` object), where the **Video Camera** uses it. The Gray Scale is only applied to the **input video** and not on the Cube.
 

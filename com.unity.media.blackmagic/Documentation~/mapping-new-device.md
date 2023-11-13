@@ -1,3 +1,5 @@
+[Contents](TableOfContents.md) | [Home](index.md) > [Getting started](getting-started.md) > Mapping a new device to an SDI port
+
 # Mapping a new device to an SDI port
 
 You can map a new device to an **SDI port** by selecting one of the **SDI ports** detected in the dropdown, next to the device. The number of available SDI ports depends on your Blackmagic Decklink card and the **Connector Mapping** selected.

@@ -1,6 +1,8 @@
+[Contents](TableOfContents.md) | [Home](index.md) > [Getting started](getting-started.md) > Adding and configuring an input device
+
 # Adding and configuring an input device
 
-To receive and display SDI video, you can use an **Input Device**, added through the **Blackmagic Video Manager** window. 
+To receive and display SDI video, you can use an **Input Device**, added through the **Blackmagic Video Manager** window.
 
 You can add **input devices** by pressing the **+** symbol, in the **Input Devices** list. After selecting this new device, you can visualize its configuration in the **Properties** section, below the list.
 

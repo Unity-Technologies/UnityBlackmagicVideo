@@ -1,6 +1,8 @@
+[Contents](TableOfContents.md) | [Home](index.md) > [Getting started](getting-started.md) > Managing the connector mapping profile
+
 # Managing the connector mapping profile
 
-Blackmagic Video offers the ability to directly control the **Connector mapping** of your card, without using the **Desktop Video Setup** software. 
+Blackmagic Video offers the ability to directly control the **Connector mapping** of your card, without using the **Desktop Video Setup** software.
 
 You can refer to the Blackmagic website for more information on your hardware. Different Blackmagic DeckLink products support a different range of connector mappings, indicated on the product webpage. Five Connector Mapping profiles are supported:
 
@@ -14,5 +16,4 @@ You can refer to the Blackmagic website for more information on your hardware. D
 | __Two Sub Devices Full Duplex__ | Supports 2 sub-devices for the input and 2 sub-devices for the output.|
 | __Two Sub Devices Half Duplex__ | Supports 2 sub-devices that can be either input or output. |
 
-You can refer to the [Blackmagic DeckLink 8K Pro connection mapping documentation](decklink-8k-pro-connection-mapping.md) to understand what these profiles are and how they can be used as an example. 
- 
+You can refer to the [Blackmagic DeckLink 8K Pro connection mapping documentation](decklink-8k-pro-connection-mapping.md) to understand what these profiles are and how they can be used as an example.
