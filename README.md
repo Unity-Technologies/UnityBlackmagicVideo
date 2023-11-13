@@ -39,7 +39,7 @@ In that case, we recommend that you fork the repository. This will allow you to 
 
 Use this Unity project to run various tests against the Blackmagic package.
 
-| Package | Description |
+| Project | Description |
 | :--- | :--- |
 | [**TestProject**](TestProject) | Used to run the Blackmagic package tests. |
 
