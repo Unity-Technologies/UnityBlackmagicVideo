@@ -1,6 +1,6 @@
-# Blackmagic and Legacy Render Pipeline Sample Project
+# Blackmagic and Legacy Render Pipeline sample project
 
-Use this Unity project to test Blackmagic package with the Unity Editor's Legacy Render Pipeline.
+Use this Unity sample project to try the Blackmagic package features when using Unity Editor's Legacy Render Pipeline.
 
 ## Sample Scenes
 The following sample scenes are available:

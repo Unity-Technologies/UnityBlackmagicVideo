@@ -46,7 +46,7 @@ Use this Unity project to run various tests against the Blackmagic package.
 
 ### Try the Blackmagic Video package features
 
-A few sample projects are available to try the features according to specific use cases.
+A few Unity sample projects are available to try the features according to specific render pipelines and use cases.
 
 | Project | Description |
 | :--- | :--- |

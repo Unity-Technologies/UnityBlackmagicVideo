@@ -1,6 +1,6 @@
 # Blackmagic and Universal Render Pipeline (URP) Sample Project
 
-Use this Unity project to test Blackmagic package with Universal Render Pipeline (URP) installed.
+Use this Unity sample project to try the Blackmagic package features when using the Universal Render Pipeline (URP).
 
 ## Sample Scenes
 The following sample scenes are available:

@@ -1,3 +1,3 @@
-# Blackmagic Synchronization Sample Project
+# Blackmagic Synchronization sample project
 
-Use this Unity project to find out how to synchronize a Blackmagic video input that includes Timecode data with other content in Unity.
+Use this Unity sample project to try out synchronization of a Blackmagic video input that includes Timecode data with other content in Unity.
