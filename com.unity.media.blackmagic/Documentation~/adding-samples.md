@@ -1,10 +1,12 @@
+[Contents](TableOfContents.md) | [Home](index.md) > [Samples](samples.md) > Adding samples
+
 # Adding samples
 
-To add a sample to your project: 
+To add a sample to your project:
 
-1. Navigate to **Window > Package Manager**. 
+1. Navigate to **Window > Package Manager**.
 
-2. Locate **Blackmagic Video** in the list of available packages, and select it. Under the package description, there is a list of available samples. 
+2. Locate **Blackmagic Video** in the list of available packages, and select it. Under the package description, there is a list of available samples.
 
 3. Click the **Import** button next to the sample you wish to add.
 

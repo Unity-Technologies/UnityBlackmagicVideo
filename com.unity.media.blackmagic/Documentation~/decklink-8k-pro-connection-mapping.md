@@ -1,6 +1,8 @@
+[Contents](TableOfContents.md) | [Home](index.md) > [Getting started](getting-started.md) > [Managing connector mapping profiles](managing-connector-mapping-profiles.md) > Blackmagic DeckLink 8K Pro connection mapping
+
 # Blackmagic DeckLink 8K Pro connection mapping
 
-Blackmagic Video automatically detects the Blackmagic DeckLink card that you are using. The connector mapping profiles that are available from the drop-down depend on the model of the card. 
+Blackmagic Video automatically detects the Blackmagic DeckLink card that you are using. The connector mapping profiles that are available from the drop-down depend on the model of the card.
 
 For example, the following four connector mapping profiles are available for the **Blackmagic DeckLink 8K Pro** card.
 
@@ -28,7 +30,7 @@ The following describes these four connector mapping profiles, an example of how
 
 ![one-sub-device-full-duplex](images/one-sub-device-full-duplex.png)
 
-**3.** **One Sub Device Half-Duplex:** One available device. 
+**3.** **One Sub Device Half-Duplex:** One available device.
 
 | **Port Usage**| **8K Support**|**Keying Support**| **Loop Through**|
 |:---|:---|:---|:---|
@@ -40,10 +42,6 @@ The following describes these four connector mapping profiles, an example of how
 
 | **Port Usage**| **8K Support**|**Keying Support**| **Loop Through**|
 |:---|:---|:---|:---|
-| SDI 1 In <br /> SDI 2 Out | No | Yes | No | 
- 
-![two-sub-device-full-duplex](images/two-sub-device-full-duplex.png) 
+| SDI 1 In <br /> SDI 2 Out | No | Yes | No |
 
-
-
- 
+![two-sub-device-full-duplex](images/two-sub-device-full-duplex.png)

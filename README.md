@@ -6,8 +6,7 @@ This repository contains the code package, the test package and test projects re
 
 ## Get started
 
-To learn about the Unity Blackmagic Video package (concepts, features, and workflows) read the [Blackmagic package documentation](com.unity.media.blackmagic/Documentation~/index.md) in this repository.  
-For user convenience, an HTML build is also available [in a zip file](com.unity.media.blackmagic/Built-documentation.zip).
+To learn about the Unity Blackmagic Video package (concepts, features, and workflows) read the [Blackmagic package documentation](com.unity.media.blackmagic/Documentation~/index.md) in this repository.
 
 ### Requirements
 
@@ -40,7 +39,7 @@ In that case, we recommend that you fork the repository. This will allow you to 
 
 Use this Unity project to run various tests against the Blackmagic package.
 
-| Package | Description |
+| Project | Description |
 | :--- | :--- |
 | [**TestProject**](TestProject) | Used to run the Blackmagic package tests. |
 

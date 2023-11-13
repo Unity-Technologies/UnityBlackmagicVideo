@@ -1,8 +1,10 @@
+[Contents](TableOfContents.md) | [Home](index.md) > [Getting started](getting-started.md) > Enabling the Blackmagic Video Manager
+
 # Enabling the Blackmagic Video Manager
 
-To start using Blackmagic Video in your Unity project, open the following new window at the top: **Window > Virtual Production > Blackmagic Video Manager**. 
+To start using Blackmagic Video in your Unity project, open the following new window at the top: **Window > Virtual Production > Blackmagic Video Manager**.
 
-By default, the manager is disabled for the active scene, but if you check the **Enable Video Manager** checkbox, you should see the following in the window: 
+By default, the manager is disabled for the active scene, but if you check the **Enable Video Manager** checkbox, you should see the following in the window:
 
 ![video-IO-main-window](images/video-IO-main-window.png)
 

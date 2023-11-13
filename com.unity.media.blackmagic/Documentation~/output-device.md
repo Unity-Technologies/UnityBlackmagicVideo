@@ -1,6 +1,8 @@
+[Contents](TableOfContents.md) | [Home](index.md) > [Getting started](getting-started.md) > Adding and configuring an output device
+
 # Adding and configuring an output device
 
-To output frames through an SDI port (for example, an SDI Monitor), you can use an **Output Device**, added through the **Blackmagic Video Manager** window. 
+To output frames through an SDI port (for example, an SDI Monitor), you can use an **Output Device**, added through the **Blackmagic Video Manager** window.
 
 You can add **output devices** by pressing the **+** symbol, in the **Output Devices** list. After selecting this new device, you can visualize its configuration in the **Properties** section, below the list.
 
