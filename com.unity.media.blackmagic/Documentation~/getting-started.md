@@ -16,4 +16,4 @@ In this section, you can find information to help you accomplish the following t
 
 * [Use Blackmagic Video in different modes](using-blackmagic-modes.md)
 
-* [Use Blackmagic Video with the HDRP compositor](using-blackmagic-video-with-the-HDRP-compositor.md)
+* [Use Blackmagic Video with the HDRP compositor](using-blackmagic-video-with-the-hdrp-compositor.md)
