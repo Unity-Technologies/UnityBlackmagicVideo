@@ -2,7 +2,7 @@
 
 Use the Blackmagic Video package to leverage video capture cards from Blackmagic Design to input and output pro-grade video and audio in the Unity Editor and runtime builds, unlocking new workflows for users working in film, virtual production, live events, and broadcast.
 
-For more information (installation, concepts, features, and workflows) read the [Keyer package documentation](Documentation~/index.md) in this repository.  
+For more information (installation, concepts, features, and workflows) read the [Blackmagic Video package documentation](Documentation~/index.md) in this repository.  
 
 Review the specific [license terms](LICENSE.md) about this package.
 
